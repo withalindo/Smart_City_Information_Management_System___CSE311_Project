@@ -323,9 +323,3 @@ ORDER BY COUNT(iot.Device_ID) DESC;
 We extend our sincere gratitude to our course instructor **Prof. Dr. Kamruddin Nur**, Professor at the Department of Electrical and Computer Engineering, North South University, for his invaluable guidance and support throughout this project.
 
 ---
-
-<div align="center">
-
-Made with ❤️ at **North South University**, Dhaka, Bangladesh
-
-</div>
