@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="img/Logo-NSU.png" alt="North South University" width="100"/>
-
 # 🏙️ SCIMS — Smart City Information Management System
 
 **A comprehensive MySQL-powered database platform for modern urban operations**
