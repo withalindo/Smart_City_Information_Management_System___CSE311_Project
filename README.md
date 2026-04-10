@@ -248,7 +248,7 @@ END$$
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/your-username/SCIMS.git
+git clone https://github.com/withalindo/Smart_City_Information_Management_System___CSE311_Project.git
 cd SCIMS
 ```
 
