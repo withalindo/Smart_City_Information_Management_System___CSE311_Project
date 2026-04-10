@@ -105,7 +105,7 @@ SCIMS Database
 
 > High-level entity-relationship diagram showing all major entities and their associations.
 
-`img/CSE311 Conceptual ER Diagram Approved.jpg`
+![Conceptual ER Diagram](https://github.com/user-attachments/assets/7ea9f90a-fa5a-4b86-b5dc-da15350b8500)
 
 </details>
 
@@ -115,7 +115,7 @@ SCIMS Database
 
 > Detailed logical design with all attributes, primary keys, and foreign key relationships.
 
-`img/CSE311_Project_Logical_ERD.jpg`
+![Logical ER Diagram](https://github.com/user-attachments/assets/e8ffec91-910d-4d95-9976-57c3eee95914)
 
 </details>
 
@@ -125,7 +125,7 @@ SCIMS Database
 
 > Physical schema showing exact data types, constraints, and indexes.
 
-`img/Physical_ERD.png`
+<img width="1011" height="730" alt="Physical ER Diagram" src="https://github.com/user-attachments/assets/91d245f6-a855-4419-b552-fb761ad46628" />
 
 </details>
 
