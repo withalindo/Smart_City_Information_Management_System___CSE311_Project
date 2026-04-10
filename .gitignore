@@ -1,0 +1,22 @@
+# Ignore the images folder
+img/
+images/
+
+# Ignore the data insertion/populating folder
+"Data_Populating"/
+"Data_Insertion"/
+
+# Ignore the main LaTeX source (as requested)
+main.tex
+
+# Common LaTeX build files (highly recommended to ignore)
+*.aux
+*.log
+*.toc
+*.pdf
+*.out
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.synctex.gz
